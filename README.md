@@ -59,5 +59,4 @@ This project translated employee learning data into actionable insights for trai
 
 ## Project Files
 - Tableau dashboard screenshots
-- Project presentation summary
 - Business insights and recommendations
